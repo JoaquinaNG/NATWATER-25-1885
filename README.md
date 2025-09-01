@@ -26,6 +26,6 @@ NATWATER-25-1885/
 
 ├── Data/         →  Raw and processed datasets used in the analysis
 
-├── Analysis/     →  Jupyter notebooks for workflows and figures
+├── Workflows/     →  Jupyter notebooks for workflows and figures
 
 └── README.md     →  Project overview and citation info
